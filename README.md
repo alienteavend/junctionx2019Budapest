@@ -10,11 +10,10 @@ Read more about the challenge here:
 https://budapest.hackjunction.com/challenges/tesco-technology
 
 ### User journey
-![user_journey](https://ibb.co/ypx3y7Q "User Journey")
 https://ibb.co/ypx3y7Q
 
 ### UI design plans
-https://www.figma.com/proto/U8dXC8Tlt5rSI22u0PptV7/Junction?node-id=100%3A17235&scaling=min-zoom
+https://www.figma.com/proto/U8dXC8Tlt5rSI22u0PptV7/Junction?node-id=100%3A22237&scaling=min-zoom
 
 ### Mind maps created during the project
 https://coggle.it/diagram/XbR3MybMqum4peZu/t/nomnom (hungarian)
