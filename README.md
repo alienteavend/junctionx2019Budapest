@@ -1,5 +1,5 @@
 # TESCO NomNom - PI-rates junctionX 2019
-![alt text](https://i.ibb.co/nf4DxdT/tesconomnom-logo.png "TESCO NomNom")
+![logo](https://i.ibb.co/nf4DxdT/tesconomnom-logo.png "TESCO NomNom")
 
 ## About the project
 During Junction X Budapest 2019, our team decided to work on TESCO's proposed problem: reducing food waste.
@@ -9,8 +9,12 @@ Our solution is based on a fair draft between charities and third parties who ar
 Read more about the challenge here:
 https://budapest.hackjunction.com/challenges/tesco-technology
 
+### User journey
+![user_journey](https://ibb.co/ypx3y7Q "User Journey")
+https://ibb.co/ypx3y7Q
+
 ### UI design plans
-https://www.figma.com/file/U8dXC8Tlt5rSI22u0PptV7/Junction?node-id=36%3A184
+https://www.figma.com/proto/U8dXC8Tlt5rSI22u0PptV7/Junction?node-id=100%3A17235&scaling=min-zoom
 
 ### Mind maps created during the project
 https://coggle.it/diagram/XbR3MybMqum4peZu/t/nomnom (hungarian)
