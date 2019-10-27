@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "gtin": "05000108022152",
+      "tpnb": "054196059",
+      "tpnc": "252329675",
+      "description": "Quaker Porridge Oats 1Kg",
+      "brand": "QUAKER",
+      "qtyContents": {
+        "quantity": 1000.0,
+        "totalQuantity": 1000.0,
+        "quantityUom": "g",
+        "unitQty": "100G",
+        "netContents": "1kg ℮",
+        "avgMeasure": "Average Measure (e)"
+      },
+      "productCharacteristics": {
+        "isFood": true,
+        "isDrink": false,
+        "healthScore": 80,
+        "isHazardous": false,
+        "storageType": "Ambient",
+        "isAnalgesic": false,
+        "containsLoperamide": false
+      },
+      "pkgDimensions": [
+        {
+          "no": 1,
+          "height": 27.3,
+          "width": 19.5,
+          "depth": 5.7,
+          "dimensionUom": "cm",
+          "weight": 1069.0,
+          "weightUom": "g",
+          "volume": 3034.395,
+          "volumeUom": "cc"
+        }
+      ]
+    }
+  ]
+}
